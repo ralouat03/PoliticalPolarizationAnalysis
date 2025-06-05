@@ -3,7 +3,7 @@
 This project analyzes the relationship between income inequality (GINI), inflation (CPI), and political polarization in OECD countries. **Please refer to the Juypter Notebook for the complete data processing steps, detailed methodology, statistical analysis, interpretation of results, key findings, and discussion of limitations :)**
 
 ## Repository Structure
-
+.
 ├── data/                     # Raw input data files (e.g., MPDataset_MPDS2024a.csv, OECD_gini_cpi_data.csv)
 ├── notebooks/                # Jupyter notebooks for analysis (e.g., Polarization_Analysis.ipynb)
 ├── output/                   # Generated files (e.g., merged_political_oecd_data.csv, plots, analysis_ready_data.csv)
