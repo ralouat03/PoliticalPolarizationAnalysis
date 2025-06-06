@@ -1,3 +1,2 @@
-# Output files from the project that are ignored
-output/merged_data.sqlite
-output/merged_political_oecd_data.csv
+# Output files from the are ignored
+output/
