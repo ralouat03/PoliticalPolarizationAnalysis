@@ -1,4 +1,4 @@
-# Political Polarization and Economic Factors Analysis
+4# Political Polarization and Economic Factors Analysis
 
 This project analyzes the relationship between income inequality (GINI), inflation (CPI), and political polarization in OECD countries. **Please refer to the Juypter Notebook for the complete data processing steps, detailed methodology, statistical analysis, interpretation of results, key findings, and discussion of limitations :)**
 
@@ -11,6 +11,7 @@ This project analyzes the relationship between income inequality (GINI), inflati
 ├── .gitignore                # Specifies intentionally untracked files that Git should ignore
 └── README.md                 # This file
 
+```
 ## Setup and How to Run
 
 **Prerequisites:**
